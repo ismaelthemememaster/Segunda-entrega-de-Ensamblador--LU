@@ -1,0 +1,4 @@
+﻿  Assembling HolaMundo.asm...
+HolaMundo.asm(9): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project.vcxproj -> C:\Users\Ismaelo\Desktop\Segunda entrega de arquitectura\Entrega 2\Debug\Project.exe
+  Project.vcxproj -> C:\Users\Ismaelo\Desktop\Segunda entrega de arquitectura\Entrega 2\Debug\Project.pdb (Full PDB)
